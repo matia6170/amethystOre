@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bruhmod",
+  "name": "Bruh Mod",
+  "description": "Bruh Mod by matia6170",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
